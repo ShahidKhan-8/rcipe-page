@@ -17,12 +17,6 @@ body{
     height: 100%;
     padding-left: 50px;
 }
-.img{
-
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
-}
 .img img{
     width: 570px;
     border-radius: 8px;
